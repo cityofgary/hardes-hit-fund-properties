@@ -1,9 +1,9 @@
-# Hardest Hit Fund Properties - City of Gary, IN
+# Hardest Hit Fund Properties
 
 Map of the Hardest Hit properties in the City of Gary, IN
 
-![Screenshot 1](http://datamade.github.io/gary-counts-hhmap/images/screenshot-1.png)
-![Screenshot 1](http://datamade.github.io/gary-counts-hhmap/images/screenshot-2.png)
+![Screenshot 1](https://raw.githubusercontent.com/cityofgary/hardes-hit-fund-properties/master/images/screenshot-1.png)
+![Screenshot 1](https://raw.githubusercontent.com/cityofgary/hardes-hit-fund-properties/master/images/screenshot-2.png)
 
 ## Running locally
 
